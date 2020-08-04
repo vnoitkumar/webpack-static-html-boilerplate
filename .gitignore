@@ -1,0 +1,18 @@
+# OSX
+.DS_Store
+
+# Windows Folder config file
+Desktop.ini
+
+# Javascript related files
+build
+node_modules
+
+# Windows Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+.idea
+.vscode
+*.log*
+
+.env
